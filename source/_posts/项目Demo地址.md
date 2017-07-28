@@ -10,6 +10,10 @@ https://github.com/lijinhuai/vue-demo.git
 https://github.com/nolimits4web/Framework7-Vue.git
 #### Framework7-Vue-Webpack-Template
 https://github.com/nolimits4web/Framework7-Vue-Webpack-Template.git
+#### iview
+https://github.com/iview/iview.git
+#### mint-ui
+https://github.com/ElemeFE/mint-ui.git
 #### vue2-cli
 https://github.com/miaomiaozhou/vue2-cli.git
 #### vue2-elm
@@ -20,6 +24,8 @@ https://github.com/bailicangdu/vue2-happyfri.git
 https://github.com/bailicangdu/vue2-manage
 #### vue-admin
 https://github.com/taylorchen709/vue-admin.git
+#### vue-amap
+https://github.com/ElemeFE/vue-amap.git
 #### vue-axios-github
 https://github.com/superman66/vue-axios-github.git
 #### vue-baidu-map
@@ -32,6 +38,8 @@ https://github.com/lin-xin/vue-manage-system.git
 https://github.com/lijinhuai/webpack-demo.git
 
 # React
+#### react-demo
+https://github.com/lijinhuai/react-demo.git
 #### react
 https://github.com/duxianwei520/react.git
 #### react-demos
