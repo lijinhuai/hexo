@@ -1,6 +1,7 @@
 ---
 title: Xshell配色方案
 date: 2017-08-18 10:18:55
+author: 李锦淮
 tags:
 ---
 # Solarized Dark.xcs

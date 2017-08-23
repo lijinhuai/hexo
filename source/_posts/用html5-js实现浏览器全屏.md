@@ -1,6 +1,7 @@
 ---
 title: 用html5 js实现浏览器全屏
 date: 2017-07-18 15:18:38
+author: 李锦淮
 tags:
 ---
 # 全屏

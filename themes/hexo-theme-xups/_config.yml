@@ -58,8 +58,8 @@ share: true
 # 侧栏是否显示微博秀
 #----------------------------
 weibo_show:
-  enable: true
-  code: <iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1689547105&verifier=d79d6a44&dpc=1"></iframe>
+  enable: false
+  code: <iframe id="myWeibo" width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1689547105&verifier=d79d6a44&dpc=1"></iframe>
 
 #----------------------------
 # 是否使用网易云跟帖
@@ -110,7 +110,7 @@ head_links:
 #----------------------------
 SEO:
   keywords: 你猜, 就不告诉你
-  description: 个人博客
+  description: 个人博客2
 
 #----------------------------
 # 百度分析
